@@ -1,0 +1,47 @@
+#gamora{
+  width:200px;
+    height:200px;
+}
+
+#ironman{
+   width:200px;
+    height:200px;  
+}
+
+#panther{
+     width:200px;
+    height:200px;
+}
+
+#spiderman{
+   width:200px;
+    height:200px;  
+}
+
+#thor{
+   width:200px;
+    height:200px;  
+}
+
+#hulk{
+   width:200px;
+    height:200px;  
+}
+
+#captain marvel{
+    width:200px;
+    height:200px;   
+}
+
+#venom{
+     width:200px;
+    height:200px;  
+}
+
+body{
+    margin-left:auto;
+    padding-left: 4px;
+       margin-right:auto;
+    padding-right: 4px;
+        background-color:coral
+}
